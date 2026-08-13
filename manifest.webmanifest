@@ -1,0 +1,10 @@
+{
+  "name": "HR English Studio",
+  "short_name": "HR English",
+  "description": "面向招聘专员的轻松 HR 英语听说学习工具",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5efe6",
+  "theme_color": "#f5efe6",
+  "icons": []
+}
